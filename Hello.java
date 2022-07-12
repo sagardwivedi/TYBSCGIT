@@ -1,4 +1,4 @@
-// write simple hello world program in java
+// simple hello world program in java
 
 public class Hello {
     public static void main(String[] args) {
